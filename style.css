@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+    padding: 0% ;
+}
+body{
+    background-color: #c2e2f5;
+}
+.container{
+    background-color: rgb(201, 233, 201);
+    width: 100%;
+    height: 130px;
+    margin: 0 auto;
+
+}
+.profil-pic{
+    width: 100px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid white;
+    float: left;
+}
+.prifil-inf{
+    float: left;
+    padding: 30px;
+    
+}
+
+.contact-profil{
+    float:right;
+    padding: 30px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.contact-profil a{
+    text-decoration: none;
+
+
+}
+.contact-profil a:hover{
+    color:tomato;
+    text-decoration: underline;
+
+}
+h1,h2,h3,h4,h5,h5{
+    color: rgb(99, 35, 248) ;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    width: 100%;
+    margin: 0px auto;
+    border: 2px solid black;
+    border-bottom: none;
+    margin: 2px 0px;
+
+}
+.persional-information1{
+    float:left;
+    width: 30%;
+    margin-top: 20px;
+
+
+}
+.persional-information2{
+    float:left;
+    width: 70%;
+    color: #187bb4;
+    
+}
+.horizental-line{
+    border-bottom: none;
+    width: 100%;
+    border: 1px solid rgba(112, 118, 139, 0.89);
+}
+.Work-experience1{
+    float: left;
+    width: 30%;
+    margin-top: 100px;
+    
+}
+.Work-experience2{
+
+    float: left;
+    width: 70%;
+    color: #187bb4;
+
+}
+.education1{
+    float:left;
+    width:30%;
+    margin-top: 10px;
+
+
+
+}
+.education2{
+    float: left;
+    width: 35%;
+    color: #187bb4;
+
+    
+
+}
+.education3{
+    float: right;
+    width: 35%;
+    color: #187bb4;
+
+}
+.hobby1{
+    float: left;
+    width: 30%;
+    margin-top: 20px;
+    
+
+}
+.hobby2{
+    float: left;
+    width: 23.3%;
+    color: #187bb4;
+    
+}
+.hobby3{
+    float: left;
+    width: 23.3%;
+    color: #187bb4;
+}
+.hobby4{
+    float:right;
+    width: 23.3%;
+    color: #187bb4;
+    
+}
+.footer1{
+    
+    
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+
+}
+.footer1 a{
+    color: rgb(186, 224, 15);
+    text-decoration: none;
+    margin: 20px;
+    background-color: rgb(15, 168, 148);
+    border-radius: 10px;
+    padding: 4px;
+}
+.footer1 p{
+    margin-top:10px;
+    color:rgb(167, 98, 8);
+}
